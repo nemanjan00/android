@@ -450,6 +450,7 @@
   <project path="hardware/ril" name="LineageOS/android_hardware_ril" groups="pdk" />
   <project path="kernel/configs" name="kernel/configs" groups="vts,pdk" remote="aosp" />
   <project path="kernel/tests" name="kernel/tests" remote="aosp" />
+  <project path="kernel/prebuilts/4.19/arm64" name="kernel/prebuilts/4.19/arm64" remote="aosp" />
   <project path="libcore" name="LineageOS/android_libcore" groups="pdk" />
   <project path="libnativehelper" name="platform/libnativehelper" groups="pdk" remote="aosp" />
   <project path="packages/apps/BasicSmsReceiver" name="LineageOS/android_packages_apps_BasicSmsReceiver" groups="pdk-cw-fs,pdk-fs" />
