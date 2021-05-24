@@ -528,7 +528,6 @@
   <project path="device/google/cuttlefish" name="device/google/cuttlefish" groups="vts,pdk" remote="aosp" />
   <project path="device/google/cuttlefish_common" name="device/google/cuttlefish_common" groups="vts,pdk" remote="aosp" />
   <project path="device/google/cuttlefish_kernel" name="device/google/cuttlefish_kernel" groups="vts,pdk" remote="aosp" />
-  <project path="device/google/cuttlefish_prebuilts" name="device/google/cuttlefish_prebuilts" groups="vts,pdk" remote="aosp" />
   <project path="device/google/cuttlefish_vmm" name="device/google/cuttlefish_vmm" groups="vts,pdk" remote="aosp" />
   <project path="libcore" name="platform/libcore" groups="pdk" remote="aosp" />
   <project path="libnativehelper" name="platform/libnativehelper" groups="pdk" remote="aosp" />
